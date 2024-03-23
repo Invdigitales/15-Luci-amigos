@@ -1,0 +1,361 @@
+* body {
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /*PORTADA*/
+  
+ 
+ 
+
+  
+ 
+  
+  img {
+    margin-top: -1%;
+    width: 100%;
+    margin-right: 50px;
+    box-shadow: 0px 3px 5px rgba(rgb(255, 255, 255), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
+  }
+  
+  /*CUENTA REGRESIVA*/
+  
+  @media (max-width: 730px) {
+    .cuenta-regresiva {
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      gap: 1em;
+      padding: 0.8em;
+      margin-top: 10%;
+  }
+  .cr-time > span {
+      font-size: 18px;
+      font-weight: bold;
+      color: #fdfdfc;
+      
+  }
+  .cr-desc {
+      color: rgb(255, 255, 255);
+   font-family: 'Julius Sans One', sans-serif;
+   font-size: 13px;
+   font-weight: bold;
+      
+  }
+  .cr-block {
+     background-image: url(./imagenes/ROSA.gif);
+     background-size: 50%;
+      border-radius: 5px;
+      padding: 0.1em 0.5em;
+      background-size: 80%;
+  }
+  .segundo{
+width: 17%;
+margin-top: -19%;
+margin-left: 68%;
+  }
+  
+  
+  
+
+  .Play{
+  
+    font-family: 'Sacramento', cursive;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 4%;
+    color: #b8b8b8;
+   
+   }
+    h5{
+    font-size: 30px;
+    text-align: center;
+    margin-top: -15%;
+    
+    
+    }
+    .audio{
+      width: 35%;
+      height: 20px;
+      margin-left: 32%;
+      background-color:  #ffffff;
+      color: #646464bd;
+      margin-top: -45%;
+      
+  }
+
+  .main{
+    background-color: #f8f8f8;
+    margin-top: 4%;
+  }
+
+
+  .parrafo1{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 30px;
+       color:  #a5a5a5;
+       margin-top: 10%;
+  }
+ 
+
+
+  .parrafo2{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 20%;
+  }
+
+  .copas{
+    width: 25%;
+    margin-top: -5%;
+    margin-left: 39%;
+  }
+
+  .parrafo3{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 35px;
+       color:  #797979;
+       margin-top: 15%;
+  }
+  .parrafo4{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 15%;
+  }
+  .parrafo6{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 20%;
+  }
+
+  .parrafo7{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 5%;
+  }
+  .musica{
+    width: 17%;
+    margin-top: -5%;
+    margin-left: 42%;
+  }
+
+.css-button-arrow--sand{
+  padding: 1px 9px;
+  font-size: 18px;
+  border: none;
+  color: #ffffff;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(250, 218, 245);
+  cursor: pointer;
+  margin-left: 34%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-image: url(./imagenes/ROSA.gif);
+  background-size: 30%;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}
+.brillo{
+ width: 40%;
+  margin-left: 30%;
+margin-top: -45%;  
+}
+.corazongif{
+  width: 8%;
+   margin-left:62%;
+ margin-top: -30%;  
+ }
+
+.foto6{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 20%;
+}
+.parrafo5{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+     font-size: 28px;
+     color:  #828282;
+     margin-top: 15%;
+}
+ 
+.icono{
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+     font-size: 14px;
+     color:  #393939;
+     margin-top: 5%;
+
+}
+.whatsap{
+  width: 25%;
+  margin-left: 37%;
+  margin-top: 2%;
+}
+.percha{
+  width: 10%;
+  margin-left: 46%;
+  margin-top: -5%;
+}
+.linea{
+    color:#959595;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: 5%;
+   
+  }
+
+
+  .linea2{
+    color:#adadad;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: 10%;
+   
+  }
+
+  .linea3{
+    color:#a4abaa;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: 8%;
+   
+  }
+
+  .click2{
+    padding: 1px 9px;
+    font-size: 18px;
+    border: none;
+    color: #ffffff;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(250, 218, 245);
+    cursor: pointer;
+    margin-left: 25%;
+    background-size: 120%;
+    margin-top: 4%;
+    background-image: url(./imagenes/ROSA.gif);
+    background-size: 30%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .confeti{
+    width: 40%;
+     margin-left: 30%;
+   margin-top: -45%;  
+   }
+
+  .nombre{
+    width: 45%;
+    margin-left: 28%;
+    margin-top: -2%;
+  }
+ 
+  .parrafo7{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 10%;
+  }
+
+  .corazongif2{
+    width: 8%;
+     margin-left:60%;
+   margin-top: -25%;  
+   }
+
+
+
+
+
+  .box__copyright {
+    margin-top: 30%;
+  
+  }
+  
+  .box__copyright p {
+    margin-top: -10px;
+    color: #c3b1b1;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .box__copyright a {
+    text-decoration: none;
+    color: #b4b4b4;
+  }
+  .logo{
+    width: 15%;
+    margin-left: 82%;
+   margin-top: -5%;
+  }
+     
+ 
+ .ld-ripple {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  margin-left: 68%;
+  margin-top: -18%;
+}
+
+.ld-ripple div {
+  position: absolute;
+  border: 4px solid #f4f4f4;
+  opacity: 1;
+
+  border-radius: 50%;
+  animation: ld-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+.ld-ripple div:nth-child(2) {
+  animation-delay: -0.5s;
+}
+
+@keyframes ld-ripple {
+  0% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+
+  4.9% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+
+  5% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+
+  100% {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+    opacity: 0;
+  }
+
+ }
+ }
